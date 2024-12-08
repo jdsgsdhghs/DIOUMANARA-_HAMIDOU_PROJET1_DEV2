@@ -1,0 +1,7 @@
+j'ai utilliser la librairie boostrap pour prendre la format de mes checklist et la formulaire https://getbootstrap.com/docs/5.3/forms/form-control/
+
+
+j'ai utilisé la librairie react pour m'en sortir avec l'API https://react.dev/learn/synchronizing-with-effects#fetching-data mais helas j'ai pas pu m'en sortir 
+
+
+j'ai utiliser chathpt pour certain partie de mon code
