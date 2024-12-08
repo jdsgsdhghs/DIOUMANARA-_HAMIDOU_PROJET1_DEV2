@@ -78,7 +78,7 @@ const Dashboard = () => {
               <li
                 key={checklist.id}
                 style={{
-                  border: "1px solid #ddd",
+                  border: "1px solid #26547C",
                   borderRadius: "8px",
                   margin: "10px 0",
                   padding: "15px",
